@@ -79,3 +79,16 @@ span{
 #pic-4{
     border-left: 5px solid rgb(255, 221, 0);
 }
+.part-05{
+    width: 34%;
+    text-align: center;
+    color: rgb(85, 78, 78);
+}
+.part-5{
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 15px 15px 10px;
+    border-radius: 10px;
+    border-left: 5px solid blue;
+    border-top: 5px solid blue;
+}
