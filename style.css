@@ -15,6 +15,7 @@ body{
 }
 .img-1{
     width: 90%;
+    border-radius: 10px;
 }
 .text-1{
     font-size: 80px;
@@ -64,4 +65,17 @@ span{
     }
 .img-2{
     width: 45%;
+    border-radius: 10px;
+}
+#pic-1{
+    border-left: 5px solid red;
+}
+#pic-2{
+    border-left: 5px solid blue;
+}
+#pic-3{
+    border-left: 5px solid rgb(121, 38, 204);
+}
+#pic-4{
+    border-left: 5px solid rgb(255, 221, 0);
 }
