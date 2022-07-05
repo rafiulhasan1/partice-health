@@ -92,3 +92,13 @@ span{
     border-left: 5px solid blue;
     border-top: 5px solid blue;
 }
+.part-06{
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 25px 100px;
+    font-weight: 500;
+}
+.text-3{
+    font-size: 35px;
+}
