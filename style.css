@@ -54,3 +54,14 @@ span{
 .text-2{
     font-size: 50px;
 }
+.part-04{
+    width: 50%;
+    margin-right: 5%;
+    margin-left: 5%;
+    box-shadow: 15px 15px 10px;
+    border-radius: 15px;
+    color: rgb(85, 78, 78);
+    }
+.img-2{
+    width: 45%;
+}
